@@ -1,0 +1,32 @@
+-------------------------------------------- 04 / 02 / 2017 ---------------------------------------------------
+Katoolin V2.0
+(by nullr00t)
+
+I will be modifying the menu as I can to keep up with what tools can and can't be installed.
+
+Tools Removed : 
+
+11 - Password Attacks
+Multiforcer
+
+12 - Reverse Engineering
+
+Distorm (python-distorm3)
+JD
+OllyDbg
+Valgrind
+YARA
+
+TODO:
+Modify the numbers of the tools so that a number is not skipped or missing (For neatness sake) 
+
+---------------------------------------------07 / 02 / 2017----------------------------------------------------
+
+Number of tools in start of script has been revised to show that 325 tools are now available instead of 331.
+Modified numbers assigned to tools as to not confuse the reader by skipping numbers of previously removed tools.
+
+----------------------------------------- 05 / 10 / 2018 -------------------------------------------------------
+
+Multiple changes have been made to reflect the availability of tools that are offered through the kali rolling 
+repos as well as making the code of the script more human readable in a text editor. Correction of numbers on
+the tools as well as attempts at making it easier to navigate have been done.
