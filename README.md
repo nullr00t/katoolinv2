@@ -10,7 +10,7 @@ A python script for installing Kali Linux tools on Debian derived linux distros.
 - Python 2.7
 - An operating system (tested on Ubuntu,Lubuntu,Debian)
 - Kubuntu does have some problems with installtion, I have not figured out what tool installation attempts cause them.
-This seems to be likely to different KDE frameworks, etc in each distro's main repo.
+This seems to be likely due to different KDE frameworks, etc in each distro's main repo. 
 
 # Installation
 - sudo su
